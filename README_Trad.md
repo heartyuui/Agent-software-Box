@@ -2,7 +2,7 @@
 <p align="center">
 <a title="Hexo Version" target="_blank" href="https://github.com/heartyuui/Agent-software/blob/main/README.md"><img alt="Hexo Version" src="https://raw.githubusercontent.com/heartyuui/Agent-software/refs/heads/main/logo/Chinese-Simplified_language_1.svg"></a>
  &nbsp;&nbsp;
-<<a title="Hexo Version" target="_blank" href="https://github.com/heartyuui/Agent-software/blob/main/README_EN.md"><img alt="Hexo Version" src="https://raw.githubusercontent.com/heartyuui/Agent-software/refs/heads/main/logo/English_language.svg"></a>
+<a title="Hexo Version" target="_blank" href="https://github.com/heartyuui/Agent-software/blob/main/README_EN.md"><img alt="Hexo Version" src="https://raw.githubusercontent.com/heartyuui/Agent-software/refs/heads/main/logo/English_language.svg"></a>
 </p>
 
 ## ⭐ 快速下載
