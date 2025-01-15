@@ -24,7 +24,11 @@
 | CentOS/Fedora/SUSE | [Clash.Verge](https://raw.githubusercontent.com/heartyuui/Agent-software/refs/heads/main/linux/CentOS-Fedora-SUSE/Clash.Verge_2.0.2-1_x86_64.rpm) | 2.0.2-1 | x86_64 | 5ae0de379cd2829be15c6f5201fd6c2f |
 |  | [Clash.Verge](https://raw.githubusercontent.com/heartyuui/Agent-software/refs/heads/main/linux/CentOS-Fedora-SUSE/Clash.Verge_2.0.2-1_arm64.rpm) | 2.0.2-1 | arm64 | 2a80f2623e658cc40a076d78473c350c |
 |  | [Clash.Verge](https://raw.githubusercontent.com/heartyuui/Agent-software/refs/heads/main/linux/CentOS-Fedora-SUSE/Clash.Verge-2.0.2-1.armv7.rpm) | 2.0.2-1 | armv7 | 699c51c71ddebb933e1aff0303e7eef2 |
+
 ## 📜 Disclaimer
 By downloading or using the software in this repository, you agree to comply with all applicable local laws and regulations. The use of these tools for illegal activities, including but not limited to accessing restricted content in regions where it is prohibited, is solely the responsibility of the user. The repository owner does not support or condone any unlawful usage of these tools. Use at your own risk.
 
 This repository is solely intended for educational and informational purposes. All software and resources provided here are publicly available and are gathered as a reference. The repository owner does not develop, modify, or maintain any of the tools included and is not responsible for their functionality or misuse.
+
+## 🍉 Related links
+Warehouse organization：[@HEARTYUUI](https://github.com/heartyuui) &nbsp; Resource List：[List.md](https://github.com/heartyuui/Agent-software/blob/main/List.md) &nbsp; Disclaimer：[Disclaimer.md](https://github.com/heartyuui/Agent-software/blob/main/Disclaimer.md)
