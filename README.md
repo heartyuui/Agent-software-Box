@@ -1,5 +1,11 @@
-## ⭐ Quick Download
-| OS      | Software | Version | System Architecture | MD5 |
+## 🌏 语言
+<p align="center">
+<a title="Hexo Version" target="_blank" href="https://github.com/heartyuui/Agent-software/blob/main/README_Trad.md"><img alt="Hexo Version" src="https://raw.githubusercontent.com/heartyuui/Agent-software/refs/heads/main/logo/Chinese-Traditional_language.svg"></a> &nbsp;&nbsp;
+<a title="Hexo Version" target="_blank" href="https://github.com/heartyuui/Agent-software/blob/main/README_EN.md"><img alt="Hexo Version" src="https://raw.githubusercontent.com/heartyuui/Agent-software/refs/heads/main/logo/English_language.svg"></a>
+</p>
+
+## ⭐ 快速下载
+| 操作系统      | 软件 | 版本 | 系统架构 | MD5 |
 | :-----------: | ----------- | :-----------: | :-----------: | :-----------: |
 | Windows     | [Clash for Windows](https://raw.githubusercontent.com/heartyuui/Agent-software/refs/heads/main/windows/Clash_0.20.18_windows.7z)       | 0.20.18 | x64 | 0dd2fc9bfacf271ce2512df55b1e9fe2 |
 |      | [Shadowsocks](https://raw.githubusercontent.com/heartyuui/Agent-software/refs/heads/main/windows/Shadowsocks_4.4.1.0_windows.zip)       | 4.4.1.0 | x64 | bb8fabe90e342c166aa227ad9978e36b |
@@ -17,5 +23,7 @@
 | CentOS/Fedora/SUSE | [Clash.Verge](https://raw.githubusercontent.com/heartyuui/Agent-software/refs/heads/main/linux/CentOS-Fedora-SUSE/Clash.Verge_2.0.2-1_x86_64.rpm) | 2.0.2-1 | x86_64 | 5ae0de379cd2829be15c6f5201fd6c2f |
 |  | [Clash.Verge](https://raw.githubusercontent.com/heartyuui/Agent-software/refs/heads/main/linux/CentOS-Fedora-SUSE/Clash.Verge_2.0.2-1_arm64.rpm) | 2.0.2-1 | arm64 | 2a80f2623e658cc40a076d78473c350c |
 |  | [Clash.Verge](https://raw.githubusercontent.com/heartyuui/Agent-software/refs/heads/main/linux/CentOS-Fedora-SUSE/Clash.Verge-2.0.2-1.armv7.rpm) | 2.0.2-1 | armv7 | 699c51c71ddebb933e1aff0303e7eef2 |
-## 📜 Disclaimer
-By downloading or using the software in this repository, you agree to comply with all applicable local laws and regulations. The use of these tools for illegal activities, including but not limited to accessing restricted content in regions where it is prohibited, is solely the responsibility of the user. The repository owner does not support or condone any unlawful usage of these tools. Use at your own risk.
+## 📜 免责声明
+通过下载或使用此存储库中的软件，您同意遵守所有适用的当地法律和法规。使用这些工具进行非法活动（包括但不限于在禁止访问的地区访问受限内容）完全由用户负责。存储库所有者不支持或纵容任何非法使用这些工具的行为。使用风险自负。
+
+此存储库仅用于教育和信息目的。此处提供的所有软件和资源均公开可用，并作为参考收集。存储库所有者不开发、修改或维护任何包含的工具，也不对其功能或误用负责。
