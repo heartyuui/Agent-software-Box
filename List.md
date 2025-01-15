@@ -1,9 +1,9 @@
-# 🍍清单 (Resource List)
+# 🍍资源清单 (Resource List)
 
 本仓库汇总了常用的热门代理客户端和相关工具，仅供学习和参考，具体使用请遵守当地法律法规。
 
 ## 分类目录（Categories）
-- [🍍清单 (Resource List)](#清单-resource-list)
+- [🍍资源清单 (Resource List)](#资源清单-resource-list)
   - [分类目录（Categories）](#分类目录categories)
   - [原作者 Github 地址（Original author Github address）](#原作者-github-地址original-author-github-address)
   - [相关链接（Related links）](#相关链接related-links)
