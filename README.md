@@ -24,6 +24,8 @@
 |  | [Clash.Verge](https://raw.githubusercontent.com/heartyuui/Agent-software/refs/heads/main/linux/CentOS-Fedora-SUSE/Clash.Verge_2.0.2-1_arm64.rpm) | 2.0.2-1 | arm64 | 2a80f2623e658cc40a076d78473c350c |
 |  | [Clash.Verge](https://raw.githubusercontent.com/heartyuui/Agent-software/refs/heads/main/linux/CentOS-Fedora-SUSE/Clash.Verge-2.0.2-1.armv7.rpm) | 2.0.2-1 | armv7 | 699c51c71ddebb933e1aff0303e7eef2 |
 
+![Alt](https://repobeats.axiom.co/api/embed/d60c860af6c3a21607017577b10ae955128405e7.svg "Repobeats analytics image")
+
 ## 📜 免责声明
 通过下载或使用此存储库中的软件，您同意遵守所有适用的当地法律和法规。使用这些工具进行非法活动（包括但不限于在禁止访问的地区访问受限内容）完全由用户负责。存储库所有者不支持或纵容任何非法使用这些工具的行为。使用风险自负。
 
